@@ -989,6 +989,10 @@
     color: #fff;
     width: 30px;
 }
+.nodec{
+    text-decoration: none;
+    color: #293241;
+}
 .social-accounts{
     position: relative;
     display: flex;
